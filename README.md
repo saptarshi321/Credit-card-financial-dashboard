@@ -61,6 +61,8 @@ Promote premium cards to high-spending segments.
 Partner with top merchants driving transaction volumes.
 Design loyalty programs for underperforming regions to boost usage.
 
+⚡ Outcome: The dashboard enables banks/financial institutions to optimize product offerings, improve customer targeting, and increase revenue through actionable insights.
+
 📸 Screenshot 
 
 Let's See how the dashboard looks :- ![Alt text](https://github.com/username/repo/assets/image.png).
