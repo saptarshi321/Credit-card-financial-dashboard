@@ -63,4 +63,5 @@ Design loyalty programs for underperforming regions to boost usage.
 
 Screenshot 
 See the dashboard look :- ![Alt text](https://github.com/username/repo/assets/image.png).
-![Dashboard Preview]().
+![Dashboard Preview](https://github.com/saptarshi321/Credit-card-financial-dashboard/blob/main/Credit%20Card%20Transaction%20Report.png).
+![](https://github.com/saptarshi321/Credit-card-financial-dashboard/blob/main/Credit%20Card%20Customer%20Report.png).
